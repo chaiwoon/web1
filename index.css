@@ -1,0 +1,23 @@
+.main_contents {
+   background-color: turquoise;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.main_contents2 {
+   background-color: turquoise;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color: white;
+}
+
+#adapter {
+   margin-top: 3px;
+   margin-left: 10px;
+   display: inline-block;
+   border-bottom: 1px solid red;
+   padding-bottom: 0;
+   line-height: 100%;
+}
